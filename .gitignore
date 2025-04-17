@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/public/build
+/src/build fin-olimp
 
 # misc
 .DS_Store

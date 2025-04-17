@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts src/build",
+    "build": "react-scripts public/build fin-olimp",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
